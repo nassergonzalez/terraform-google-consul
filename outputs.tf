@@ -47,4 +47,7 @@ output "instance_template_url" {
   description = "The URL of the Instance Template used by the Consul Server cluster."
   value       = module.consul_servers.instance_template_url
 }
-
+output "description_of_url" {
+  description = "The URL description of the Instance Template used by the Consul Server cluster."
+  value       = module.consul_servers.instance_template_url
+}
