@@ -6,7 +6,7 @@ may fork the repository to continue use and development for your personal/busine
 ---
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg)
 
-# Consul for Google Cloud Platform (GCP)
+# Consul for Google Cloud Platform
 
 This repo contains a Terraform Module for how to deploy a [Consul](https://www.consul.io/) cluster on
 [GCP](https://cloud.google.com/) using [Terraform](https://www.terraform.io/). Consul is a distributed, highly-available
